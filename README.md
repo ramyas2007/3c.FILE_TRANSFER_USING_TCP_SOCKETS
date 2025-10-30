@@ -59,6 +59,9 @@ s.close()
 ```
 
 ## OUPUT
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/e8bacd0a-5360-476e-9c03-e975afabb939" />
+<img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/6b7b14dc-d3e2-4309-9185-26c93b15e126" />
+
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
 successfully created and executed.
